@@ -476,3 +476,488 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If Statement.o" "..\\src\\If Statement.cpp" 
 g++ -o "If Statement.exe" "src\\If Statement.o" 
 Info: Nothing to build for If Statement
+14:09:09 **** Rebuild of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:09:13 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:10:18 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:11:37 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:13:45 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:14:29 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:17:01 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+..\src\If-Else.cpp: In function 'int main()':
+..\src\If-Else.cpp:34:20: error: invalid operands of types 'const char [14]' and '<unresolved overloaded function type>' to binary 'operator<<'
+   "Not Quitting."<<endl;
+                    ^
+14:17:10 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file If-Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:17:24 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -o If-Else.exe "src\\If-Else.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file If-Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:17:27 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -o If-Else.exe "src\\If-Else.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file If-Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:17:45 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -o If-Else.exe "src\\If-Else.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file If-Else.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:18:29 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -o If-Else.exe "src\\If-Else.o" 
+Info: Nothing to build for If-Else
+14:22:01 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:22:10 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:22:43 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+14:23:12 **** Incremental Build of configuration Debug for project If-Else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If-Else.o" "..\\src\\If-Else.cpp" 
+g++ -o If-Else.exe "src\\If-Else.o" 
+16:04:49 **** Rebuild of configuration Debug for project Compairing Flows ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Compairing Flows.o" "..\\src\\Compairing Flows.cpp" 
+g++ -o "Compairing Flows.exe" "src\\Compairing Flows.o" 
+16:04:52 **** Incremental Build of configuration Debug for project Compairing Flows ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Compairing Flows.o" "..\\src\\Compairing Flows.cpp" 
+..\src\Compairing Flows.cpp: In function 'int main()':
+..\src\Compairing Flows.cpp:17:5: error: 'value' was not declared in this scope
+  if(value ==1.1){
+     ^
+16:05:02 **** Incremental Build of configuration Debug for project Compairing Flows ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Compairing Flows.o" "..\\src\\Compairing Flows.cpp" 
+g++ -o "Compairing Flows.exe" "src\\Compairing Flows.o" 
+16:07:08 **** Incremental Build of configuration Debug for project Compairing Flows ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Compairing Flows.o" "..\\src\\Compairing Flows.cpp" 
+g++ -o "Compairing Flows.exe" "src\\Compairing Flows.o" 
+16:22:30 **** Rebuild of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:22:34 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:24:7: warning: unused variable 'value2' [-Wunused-variable]
+   int value2 = 4;
+       ^
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:23:58 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:24:31 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:25:08 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:27:57 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+Info: Nothing to build for Complex Conditions
+Info: Nothing to build for Complex Conditions
+16:31:13 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:17: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 !=8 && value1 == 10 ||value1<10) {
+                 ^
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:31:43 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:17: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 !=8 && value1 == 10 ||value1<6) {
+                 ^
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:33:33 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:17: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 !=8 && value1 == 10 ||value1<10) {
+                 ^
+..\src\Complex Conditions.cpp:59:2: error: expected ';' before 'return'
+  return 0;
+  ^
+16:33:39 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:17: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 !=8 && value1 == 10 ||value1<10) {
+                 ^
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:33:50 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:17: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 !=8 && value1 == 10 ||value1<10) {
+                 ^
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:34:49 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:17: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 !=8 && value1 == 10 ||value1<10) {
+                 ^
+..\src\Complex Conditions.cpp:60:8: error: 'condition2' was not declared in this scope
+  cout<<condition2<<endl;
+        ^
+..\src\Complex Conditions.cpp:59:7: warning: unused variable 'conidition2' [-Wunused-variable]
+  bool conidition2 = (value1<value2);
+       ^
+16:35:00 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:17: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 !=8 && value1 == 10 ||value1<10) {
+                 ^
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:35:10 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:17: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 !=8 && value1 == 10 ||value1<10) {
+                 ^
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:35:52 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:50:18: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+  if (value2 != 8 && value1 == 10 || value1 < 10) {
+                  ^
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+16:38:06 **** Rebuild of configuration Debug for project While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\While.o" "..\\src\\While.cpp" 
+g++ -o While.exe "src\\While.o" 
+16:38:08 **** Incremental Build of configuration Debug for project While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\While.o" "..\\src\\While.cpp" 
+g++ -o While.exe "src\\While.o" 
+16:39:51 **** Incremental Build of configuration Debug for project While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\While.o" "..\\src\\While.cpp" 
+g++ -o While.exe "src\\While.o" 
+16:40:03 **** Incremental Build of configuration Debug for project While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\While.o" "..\\src\\While.cpp" 
+g++ -o While.exe "src\\While.o" 
+16:40:56 **** Incremental Build of configuration Debug for project While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\While.o" "..\\src\\While.cpp" 
+g++ -o While.exe "src\\While.o" 
+16:42:22 **** Incremental Build of configuration Debug for project While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\While.o" "..\\src\\While.cpp" 
+g++ -o While.exe "src\\While.o" 
+16:42:37 **** Incremental Build of configuration Debug for project While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\While.o" "..\\src\\While.cpp" 
+g++ -o While.exe "src\\While.o" 
+16:46:46 **** Rebuild of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+16:46:49 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+16:46:55 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+16:47:09 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:19:2: error: expected ';' before '}' token
+  }while(value <10);
+  ^
+16:47:13 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+16:49:20 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:25:2: error: expected ';' before 'return'
+  return 0;
+  ^
+16:49:29 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+16:53:39 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+16:54:31 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:54:41 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:54:46 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:54:47 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:55:54 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+Info: Nothing to build for Do While
+16:57:06 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:57:25 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:57:35 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:59:01 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:28:8: warning: statement has no effect [-Wunused-value]
+   input;
+        ^
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Compairing Flows
+Info: Nothing to build for Complex Conditions
+17:01:09 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:01:09 **** Rebuild of configuration Debug for project Float comparison function ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Float comparison function.o" "..\\src\\Float comparison function.cpp" 
+..\src\Float comparison function.cpp: In function 'int main()':
+..\src\Float comparison function.cpp:14:5: error: expected primary-expression before ')' token
+  if()
+     ^
+Info: Nothing to build for Floating Point Types
+Info: Nothing to build for If Statement
+Info: Nothing to build for If-Else
+Info: Nothing to build for Input
+Info: Nothing to build for Integer Types
+Info: Nothing to build for Other Types
+Info: Nothing to build for Outputting Text
+Info: Nothing to build for Strings
+Info: Nothing to build for Variables
+17:01:10 **** Incremental Build of configuration Debug for project While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\While.o" "..\\src\\While.cpp" 
+g++ -o While.exe "src\\While.o" 
+Info: Nothing to build for test
+17:01:14 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:23:8: warning: statement has no effect [-Wunused-value]
+   input;
+        ^
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:01:28 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:01:52 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:02:47 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+Info: Nothing to build for Do While
+17:06:52 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:16:2: error: 'Do' was not declared in this scope
+  Do {
+  ^
+..\src\Do While.cpp:24:11: error: 'input' was not declared in this scope
+  } while (input != password)
+           ^
+..\src\Do While.cpp: At global scope:
+..\src\Do While.cpp:30:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^
+..\src\Do While.cpp:31:1: error: expected declaration before '}' token
+ }
+ ^
+17:09:31 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:23:12: error: 'input' was not declared in this scope
+   } while (input != password);
+            ^
+..\src\Do While.cpp: At global scope:
+..\src\Do While.cpp:29:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^
+..\src\Do While.cpp:30:1: error: expected declaration before '}' token
+ }
+ ^
+17:11:54 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:23:12: error: 'input' was not declared in this scope
+   } while (input != password);
+            ^
+..\src\Do While.cpp: At global scope:
+..\src\Do While.cpp:29:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^
+..\src\Do While.cpp:30:1: error: expected declaration before '}' token
+ }
+ ^
+17:14:14 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:23:12: error: 'input' was not declared in this scope
+   } while (input != password);
+            ^
+..\src\Do While.cpp: At global scope:
+..\src\Do While.cpp:29:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^
+..\src\Do While.cpp:30:1: error: expected declaration before '}' token
+ }
+ ^
+17:19:15 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:23:12: error: 'input' was not declared in this scope
+   } while (input != password);
+            ^
+..\src\Do While.cpp: At global scope:
+..\src\Do While.cpp:29:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^
+..\src\Do While.cpp:30:1: error: expected declaration before '}' token
+ }
+ ^
+17:19:21 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:21:3: error: expected ';' before 'if'
+   if (input != password) {
+   ^
+17:20:01 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+..\src\Do While.cpp: In function 'int main()':
+..\src\Do While.cpp:21:3: error: expected ';' before 'if'
+   if (input != password) {
+   ^
+17:21:01 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:21:15 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:24:06 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Do While.o" "..\\src\\Do While.cpp" 
+g++ -o "Do While.exe" "src\\Do While.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Do While.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+17:26:55 **** Incremental Build of configuration Debug for project Do While ****
+Info: Internal Builder is used for build
+g++ -o "Do While.exe" "src\\Do While.o" 
+Info: Nothing to build for Do While
+Info: Nothing to build for Do While
+Info: Nothing to build for Do While
+Info: Nothing to build for Do While
+Info: Nothing to build for Do While
+Info: Nothing to build for Do While
+Info: Nothing to build for Do While
+Info: Nothing to build for Do While

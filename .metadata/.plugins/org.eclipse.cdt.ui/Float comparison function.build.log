@@ -1,0 +1,10 @@
+17:01:09 **** Rebuild of configuration Debug for project Float comparison function ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Float comparison function.o" "..\\src\\Float comparison function.cpp" 
+..\src\Float comparison function.cpp: In function 'int main()':
+..\src\Float comparison function.cpp:14:5: error: expected primary-expression before ')' token
+  if()
+     ^
+
+17:01:09 Build Finished (took 224ms)
+

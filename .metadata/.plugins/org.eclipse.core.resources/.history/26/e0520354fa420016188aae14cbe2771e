@@ -1,0 +1,23 @@
+//============================================================================
+// Name        : Do.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	int value = 7;
+
+	do {
+		cout<<"Hello"<<endl;
+		value++;
+	}while(value <10);
+
+
+	return 0;
+}

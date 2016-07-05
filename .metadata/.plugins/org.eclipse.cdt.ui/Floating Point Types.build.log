@@ -1,7 +1,1 @@
-10:57:34 **** Incremental Build of configuration Debug for project Floating Point Types ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
-g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
-
-10:57:34 Build Finished (took 703ms)
-
+Info: Nothing to build for Floating Point Types

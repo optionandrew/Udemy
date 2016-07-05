@@ -1,11 +1,1 @@
-10:41:22 **** Incremental Build of configuration Debug for project Integer Types ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
-..\src\Integer Types.cpp: In function 'int main()':
-..\src\Integer Types.cpp:21:7: warning: unused variable 'lValue2' [-Wunused-variable]
-  long lValue2 = 26265665;
-       ^
-g++ -o "Integer Types.exe" "src\\Integer Types.o" 
-
-10:41:22 Build Finished (took 648ms)
-
+Info: Nothing to build for Integer Types
