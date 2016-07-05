@@ -1,0 +1,55 @@
+!SESSION 2016-07-05 07:59:28.824 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-05 08:26:48.315
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\alevin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 08:27:09.566
+!MESSAGE Indexed 'test' (1 sources, 0 headers) in 0.083 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 09:13:22.965
+!MESSAGE Indexed 'Outputting Text' (1 sources, 85 headers) in 1.13 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 09:37:37.748
+!MESSAGE Indexed 'Variables' (1 sources, 85 headers) in 1.15 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 09:51:49.694
+!MESSAGE Indexed 'Strings' (1 sources, 0 headers) in 0.002 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 10:02:54.017
+!MESSAGE Indexed 'Input' (1 sources, 85 headers) in 1.11 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2016-07-05 10:11:29.663 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-05 10:11:37.781
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\alevin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 10:26:17.323
+!MESSAGE Indexed 'Integer Types' (1 sources, 85 headers) in 1.65 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 10:45:33.971
+!MESSAGE Indexed 'Floating Point Types' (1 sources, 85 headers) in 1.17 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 10:59:32.248
+!MESSAGE Indexed 'Other Types' (1 sources, 85 headers) in 0.886 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-05 13:38:09.344
+!MESSAGE Indexed 'If Statement' (1 sources, 85 headers) in 0.768 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

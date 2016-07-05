@@ -1,0 +1,11 @@
+//Outputting Text
+#include<iostream>
+
+using namespace std;
+
+int main(){
+
+	cout <<"This is some text."<<endl;
+	cout<<"Hello duderino"<<endl;
+	return 0;
+}

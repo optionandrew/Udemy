@@ -1,0 +1,21 @@
+//============================================================================
+// Name        : Floating.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	float fvalue = 76.4 ;
+	cout<<value<<endl;
+
+
+
+
+	return 0;
+}

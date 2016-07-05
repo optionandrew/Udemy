@@ -1,0 +1,7 @@
+13:36:32 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+
+13:36:33 Build Finished (took 445ms)
+

@@ -1,0 +1,26 @@
+//============================================================================
+// Name        : Floating.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include<iomanip>
+using namespace std;
+
+int main() {
+
+	float fValue = 123.456789;
+	cout <<setprecision(20)<< fixed<< fValue<< endl;
+	cout<<sizeof(float)<<endl;
+	cout << scientific<< fValue<< endl;
+
+	double dvalue=123.456789;
+	cout<<setprecision(20)<<fixed<<dvalue<<endl;
+
+
+
+	return 0;
+}
