@@ -961,3 +961,476 @@ Info: Nothing to build for Do While
 Info: Nothing to build for Do While
 Info: Nothing to build for Do While
 Info: Nothing to build for Do While
+07:01:03 **** Rebuild of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+g++ -o "For loop.exe" "src\\For loop.o" 
+07:01:20 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+g++ -o "For loop.exe" "src\\For loop.o" 
+07:02:05 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+..\src\For loop.cpp: In function 'int main()':
+..\src\For loop.cpp:14:20: error: expected primary-expression before '<<' token
+   cout<<"hello"<<i,<<endl;
+                    ^
+07:02:15 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+g++ -o "For loop.exe" "src\\For loop.o" 
+07:02:21 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+g++ -o "For loop.exe" "src\\For loop.o" 
+Info: Nothing to build for For loop
+07:03:56 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+..\src\For loop.cpp: In function 'int main()':
+..\src\For loop.cpp:18:2: error: name lookup of 'i' changed for ISO 'for' scoping [-fpermissive]
+  i=5;
+  ^
+..\src\For loop.cpp:18:2: note: (if you use '-fpermissive' G++ will accept your code)
+07:04:23 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+..\src\For loop.cpp: In function 'int main()':
+..\src\For loop.cpp:18:6: warning: unused variable 'i' [-Wunused-variable]
+  int i=5;
+      ^
+g++ -o "For loop.exe" "src\\For loop.o" 
+07:04:58 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+..\src\For loop.cpp: In function 'int main()':
+..\src\For loop.cpp:20:2: error: expected ';' before 'return'
+  return 0;
+  ^
+07:05:17 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+..\src\For loop.cpp: In function 'int main()':
+..\src\For loop.cpp:18:6: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  int i;
+      ^
+g++ -o "For loop.exe" "src\\For loop.o" 
+Info: Nothing to build for For loop
+Info: Nothing to build for For loop
+07:06:28 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+..\src\For loop.cpp: In function 'int main()':
+..\src\For loop.cpp:18:6: warning: unused variable 'i' [-Wunused-variable]
+  int i=5;
+      ^
+g++ -o "For loop.exe" "src\\For loop.o" 
+07:06:41 **** Incremental Build of configuration Debug for project For loop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For loop.o" "..\\src\\For loop.cpp" 
+g++ -o "For loop.exe" "src\\For loop.o" 
+07:07:39 **** Rebuild of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+07:07:43 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+07:08:46 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+07:09:28 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+07:12:25 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+07:14:57 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+07:15:55 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+07:21:50 **** Rebuild of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+07:21:53 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:16:2: error: 'value' was not declared in this scope
+  value[0] = 88; //sets 1st element to 88 in the array.  0 indexes first element
+  ^
+07:22:08 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:01:14 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:26:8: error: 'numbers' was not declared in this scope
+  cout<<numbers[0]<<endl;
+        ^
+..\src\Arrays.cpp:24:9: warning: unused variable 'numbbers' [-Wunused-variable]
+  double numbbers[4] = {4.5,2.3,7.2,8.1};
+         ^
+08:01:24 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:01:47 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:02:14 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:03:07 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:04:05 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:05:03 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:07:42 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:51:1: error: expected '}' at end of input
+ }
+ ^
+08:07:56 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:51:1: error: expected '}' at end of input
+ }
+ ^
+08:08:10 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:10:50 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:52:2: error: expected ',' or ';' before 'return'
+  return 0;
+  ^
+08:11:10 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:12:07 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:50:2: error: expected '}' at end of input
+  }
+  ^
+08:12:23 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:12:46 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:13:15 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:14:09 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+08:30:29 **** Rebuild of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+g++ -o "Excercise Arrays.exe" "src\\Excercise Arrays.o" 
+08:30:33 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+..\src\Excercise Arrays.cpp: In function 'int main()':
+..\src\Excercise Arrays.cpp:16:6: error: 'i' was not declared in this scope
+  for(i=0;i<12;i++){
+      ^
+08:31:00 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+..\src\Excercise Arrays.cpp: In function 'int main()':
+..\src\Excercise Arrays.cpp:18:22: error: invalid type argument of unary '*' (have 'int')
+   int array1[i]= 12**i;
+                      ^
+..\src\Excercise Arrays.cpp:14:6: warning: unused variable 'array1' [-Wunused-variable]
+  int array1[12];
+      ^
+08:31:31 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+..\src\Excercise Arrays.cpp: In function 'int main()':
+..\src\Excercise Arrays.cpp:18:18: error: invalid type argument of unary '*' (have 'int')
+   array1[i]= 12**i;
+                  ^
+08:31:55 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+g++ -o "Excercise Arrays.exe" "src\\Excercise Arrays.o" 
+08:32:14 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+g++ -o "Excercise Arrays.exe" "src\\Excercise Arrays.o" 
+08:32:56 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+g++ -o "Excercise Arrays.exe" "src\\Excercise Arrays.o" 
+08:33:57 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+..\src\Excercise Arrays.cpp:10:16: fatal error: math: No such file or directory
+ #include <math>
+                ^
+compilation terminated.
+08:34:41 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+g++ -o "Excercise Arrays.exe" "src\\Excercise Arrays.o" 
+08:35:22 **** Incremental Build of configuration Debug for project Excercise Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Excercise Arrays.o" "..\\src\\Excercise Arrays.cpp" 
+g++ -o "Excercise Arrays.exe" "src\\Excercise Arrays.o" 
+13:48:37 **** Rebuild of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+g++ -o "Multidimensional Arrays.exe" "src\\Multidimensional Arrays.o" 
+13:51:19 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+..\src\Multidimensional Arrays.cpp: In function 'int main()':
+..\src\Multidimensional Arrays.cpp:19:17: warning: left operand of comma operator has no effect [-Wunused-value]
+  for(int i =0; i<2,i++){
+                 ^
+..\src\Multidimensional Arrays.cpp:19:23: error: expected ';' before ')' token
+  for(int i =0; i<2,i++){
+                       ^
+..\src\Multidimensional Arrays.cpp:21:20: warning: left operand of comma operator has no effect [-Wunused-value]
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                    ^
+..\src\Multidimensional Arrays.cpp:21:34: error: no match for 'operator>>' (operand types are 'std::basic_ostream<char>' and 'int')
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                  ^
+..\src\Multidimensional Arrays.cpp:21:34: note: candidates are:
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:39,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\basic_string.tcc:996:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::basic_string<_CharT, _Traits, _Alloc>&)
+     operator>>(basic_istream<_CharT, _Traits>& __in,
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\basic_string.tcc:996:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<_CharT, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:882:0,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\istream.tcc:955:5: note: template<class _CharT2, class _Traits2> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT2*)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\istream.tcc:955:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<_CharT, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:882:0,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\istream.tcc:923:5: note: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\istream.tcc:923:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<_CharT, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40:0,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:727:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char& __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:727:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<char, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40:0,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:732:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)
+     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:732:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<char, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40:0,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:774:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:774:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<char, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40:0,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:779:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)
+     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:779:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<char, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+13:52:44 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+..\src\Multidimensional Arrays.cpp: In function 'int main()':
+..\src\Multidimensional Arrays.cpp:19:17: warning: left operand of comma operator has no effect [-Wunused-value]
+  for(int i =0; i<2,i++){
+                 ^
+..\src\Multidimensional Arrays.cpp:19:23: error: expected ';' before ')' token
+  for(int i =0; i<2,i++){
+                       ^
+..\src\Multidimensional Arrays.cpp:21:20: warning: left operand of comma operator has no effect [-Wunused-value]
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                    ^
+..\src\Multidimensional Arrays.cpp:21:34: error: no match for 'operator>>' (operand types are 'std::basic_ostream<char>' and 'int')
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                  ^
+..\src\Multidimensional Arrays.cpp:21:34: note: candidates are:
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\string:53:0,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:39,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\basic_string.tcc:996:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::basic_string<_CharT, _Traits, _Alloc>&)
+     operator>>(basic_istream<_CharT, _Traits>& __in,
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\basic_string.tcc:996:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<_CharT, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:882:0,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\istream.tcc:955:5: note: template<class _CharT2, class _Traits2> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT2*)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\istream.tcc:955:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<_CharT, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:882:0,
+                 from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\istream.tcc:923:5: note: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\bits\istream.tcc:923:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<_CharT, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40:0,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:727:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char& __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:727:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<char, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40:0,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:732:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)
+     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:732:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<char, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40:0,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:774:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:774:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<char, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\iostream:40:0,
+                 from ..\src\Multidimensional Arrays.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:779:5: note: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)
+     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.9.3\include\c++\istream:779:5: note:   template argument deduction/substitution failed:
+..\src\Multidimensional Arrays.cpp:21:36: note:   'std::basic_ostream<char>' is not derived from 'std::basic_istream<char, _Traits>'
+    cout<<animals[i,j]<< i <<" , ">>j>>endl;
+                                    ^
+13:52:52 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+..\src\Multidimensional Arrays.cpp: In function 'int main()':
+..\src\Multidimensional Arrays.cpp:18:17: warning: left operand of comma operator has no effect [-Wunused-value]
+  for(int i =0; i<2,i++) {
+                 ^
+..\src\Multidimensional Arrays.cpp:18:23: error: expected ';' before ')' token
+  for(int i =0; i<2,i++) {
+                       ^
+..\src\Multidimensional Arrays.cpp:20:22: warning: left operand of comma operator has no effect [-Wunused-value]
+    cout << animals[i,j]<< i <<" , "<< j <<endl;
+                      ^
+13:54:01 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+..\src\Multidimensional Arrays.cpp: In function 'int main()':
+..\src\Multidimensional Arrays.cpp:18:17: warning: left operand of comma operator has no effect [-Wunused-value]
+  for(int i =0; i<2,i++) {
+                 ^
+..\src\Multidimensional Arrays.cpp:18:23: error: expected ';' before ')' token
+  for(int i =0; i<2,i++) {
+                       ^
+..\src\Multidimensional Arrays.cpp:20:22: warning: left operand of comma operator has no effect [-Wunused-value]
+    cout << animals[i,j]<< i <<" , "<< j <<endl;
+                      ^
+13:55:11 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+g++ -o "Multidimensional Arrays.exe" "src\\Multidimensional Arrays.o" 
+13:55:28 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+g++ -o "Multidimensional Arrays.exe" "src\\Multidimensional Arrays.o" 
+13:56:07 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+g++ -o "Multidimensional Arrays.exe" "src\\Multidimensional Arrays.o" 
+13:56:27 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+g++ -o "Multidimensional Arrays.exe" "src\\Multidimensional Arrays.o" 

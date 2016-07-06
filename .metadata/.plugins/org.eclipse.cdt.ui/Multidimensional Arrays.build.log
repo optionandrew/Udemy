@@ -1,0 +1,7 @@
+13:56:27 **** Incremental Build of configuration Debug for project Multidimensional Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Multidimensional Arrays.o" "..\\src\\Multidimensional Arrays.cpp" 
+g++ -o "Multidimensional Arrays.exe" "src\\Multidimensional Arrays.o" 
+
+13:56:28 Build Finished (took 451ms)
+

@@ -1,0 +1,22 @@
+//============================================================================
+// Name        : Arrays.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	int values[3]; //creates an array of 3 items--items called elements numbered starting 0.
+
+	values[0] = 88; //sets 1st element to 88 in the array.  0 indexes first element
+
+	cout<<values[0]<<endl;
+
+
+	return 0;
+}

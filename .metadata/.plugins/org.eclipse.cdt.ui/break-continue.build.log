@@ -1,0 +1,7 @@
+07:15:55 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+
+07:15:56 Build Finished (took 443ms)
+
