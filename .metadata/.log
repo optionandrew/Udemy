@@ -179,3 +179,12 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-07-07 09:47:54.856
 !MESSAGE Indexed 'Sizeof Homework' (1 sources, 85 headers) in 1.02 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-07 16:24:50.445
+!MESSAGE Indexed 'Exercise--size multi dimen array' (1 sources, 85 headers) in 1.02 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-07 16:39:25.270
+!MESSAGE Indexed 'Switch' (1 sources, 85 headers) in 1.07 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-07 16:47:50.106
+!MESSAGE Indexed 'Exercise Switch' (1 sources, 85 headers) in 1.04 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

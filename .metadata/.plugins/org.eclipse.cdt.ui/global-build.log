@@ -1681,3 +1681,173 @@ g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof Homework.o" "..\\src\\Si
    for (int i = 0; i <sizeof(table)/sizeof(int); i++) {
                      ^
 g++ -o "Sizeof Homework.exe" "src\\Sizeof Homework.o" 
+16:26:04 **** Rebuild of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+16:26:41 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+16:27:13 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+16:30:07 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+..\src\Exercise--size multi dimen array.cpp: In function 'int main()':
+..\src\Exercise--size multi dimen array.cpp:18:12: error: 'o' was not declared in this scope
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+            ^
+..\src\Exercise--size multi dimen array.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+                ^
+..\src\Exercise--size multi dimen array.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int j= 0; j <sizeof(animals[0])/sizeof(string) ; j++){
+                   ^
+..\src\Exercise--size multi dimen array.cpp:21:3: error: expected ';' before '}' token
+   }
+   ^
+16:30:11 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+..\src\Exercise--size multi dimen array.cpp: In function 'int main()':
+..\src\Exercise--size multi dimen array.cpp:18:12: error: 'o' was not declared in this scope
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+            ^
+..\src\Exercise--size multi dimen array.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+                ^
+..\src\Exercise--size multi dimen array.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int j= 0; j <sizeof(animals[0])/sizeof(string) ; j++){
+                   ^
+16:30:24 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+..\src\Exercise--size multi dimen array.cpp: In function 'int main()':
+..\src\Exercise--size multi dimen array.cpp:18:12: error: 'o' was not declared in this scope
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+            ^
+..\src\Exercise--size multi dimen array.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+                ^
+..\src\Exercise--size multi dimen array.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int j= 0; j <sizeof(animals[0])/sizeof(string) ; j++){
+                   ^
+16:30:41 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+..\src\Exercise--size multi dimen array.cpp: In function 'int main()':
+..\src\Exercise--size multi dimen array.cpp:18:12: error: 'o' was not declared in this scope
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+            ^
+..\src\Exercise--size multi dimen array.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+                ^
+..\src\Exercise--size multi dimen array.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int j= 0; j <sizeof(animals[0])/sizeof(string) ; j++){
+                   ^
+16:30:55 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+..\src\Exercise--size multi dimen array.cpp: In function 'int main()':
+..\src\Exercise--size multi dimen array.cpp:18:12: error: 'o' was not declared in this scope
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+            ^
+..\src\Exercise--size multi dimen array.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+                ^
+..\src\Exercise--size multi dimen array.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int j= 0; j <sizeof(animals[0])/sizeof(string) ; j++){
+                   ^
+16:32:18 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+..\src\Exercise--size multi dimen array.cpp: In function 'int main()':
+..\src\Exercise--size multi dimen array.cpp:18:12: error: 'o' was not declared in this scope
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+            ^
+..\src\Exercise--size multi dimen array.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=o; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+                ^
+..\src\Exercise--size multi dimen array.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int j= 0; j <sizeof(animals[0])/sizeof(string) ; j++){
+                   ^
+16:33:06 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+..\src\Exercise--size multi dimen array.cpp: In function 'int main()':
+..\src\Exercise--size multi dimen array.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=0; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+                ^
+..\src\Exercise--size multi dimen array.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int j= 0; j <sizeof(animals[0])/sizeof(string) ; j++){
+                   ^
+..\src\Exercise--size multi dimen array.cpp:20:20: warning: left operand of comma operator has no effect [-Wunused-value]
+    cout<<animals[i,j]<<" "<<flush;
+                    ^
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+Info: Nothing to build for Exercise--size multi dimen array
+16:33:45 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+..\src\Exercise--size multi dimen array.cpp: In function 'int main()':
+..\src\Exercise--size multi dimen array.cpp:18:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=0; i<sizeof(animals)/sizeof(animals[0]) ;i++){
+                ^
+..\src\Exercise--size multi dimen array.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int j= 0; j <sizeof(animals[0])/sizeof(string) ; j++){
+                   ^
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+16:34:31 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+Info: Nothing to build for Exercise--size multi dimen array
+16:35:09 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+16:35:29 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+16:37:48 **** Incremental Build of configuration Debug for project Exercise--size multi dimen array ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--size multi dimen array.o" "..\\src\\Exercise--size multi dimen array.cpp" 
+g++ -o "Exercise--size multi dimen array.exe" "src\\Exercise--size multi dimen array.o" 
+16:42:35 **** Rebuild of configuration Debug for project Switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Switch.o" "..\\src\\Switch.cpp" 
+g++ -o Switch.exe "src\\Switch.o" 
+16:42:40 **** Incremental Build of configuration Debug for project Switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Switch.o" "..\\src\\Switch.cpp" 
+g++ -o Switch.exe "src\\Switch.o" 
+16:42:47 **** Incremental Build of configuration Debug for project Switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Switch.o" "..\\src\\Switch.cpp" 
+g++ -o Switch.exe "src\\Switch.o" 
+16:42:52 **** Incremental Build of configuration Debug for project Switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Switch.o" "..\\src\\Switch.cpp" 
+g++ -o Switch.exe "src\\Switch.o" 
+16:51:27 **** Rebuild of configuration Debug for project Exercise Switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise Switch.o" "..\\src\\Exercise Switch.cpp" 
+g++ -o "Exercise Switch.exe" "src\\Exercise Switch.o" 
+16:51:34 **** Incremental Build of configuration Debug for project Exercise Switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise Switch.o" "..\\src\\Exercise Switch.cpp" 
+g++ -o "Exercise Switch.exe" "src\\Exercise Switch.o" 
+16:52:00 **** Incremental Build of configuration Debug for project Exercise Switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise Switch.o" "..\\src\\Exercise Switch.cpp" 
+g++ -o "Exercise Switch.exe" "src\\Exercise Switch.o" 
+16:52:10 **** Incremental Build of configuration Debug for project Exercise Switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise Switch.o" "..\\src\\Exercise Switch.cpp" 
+g++ -o "Exercise Switch.exe" "src\\Exercise Switch.o" 
+Info: Nothing to build for Exercise Switch
+Info: Nothing to build for Exercise Switch
