@@ -1,0 +1,11 @@
+09:52:42 **** Incremental Build of configuration Debug for project Sizeof Homework ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof Homework.o" "..\\src\\Sizeof Homework.cpp" 
+..\src\Sizeof Homework.cpp: In function 'int main()':
+..\src\Sizeof Homework.cpp:18:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int i = 0; i <sizeof(table)/sizeof(int); i++) {
+                     ^
+g++ -o "Sizeof Homework.exe" "src\\Sizeof Homework.o" 
+
+09:52:42 Build Finished (took 444ms)
+

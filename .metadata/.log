@@ -170,3 +170,12 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-07-06 10:13:04.421
 !MESSAGE Indexed 'Multidimensional Arrays' (1 sources, 85 headers) in 0.797 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-07 07:00:55.273
+!MESSAGE Indexed 'Array exercise Multiplication table' (1 sources, 0 headers) in 0.002 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-07 09:33:33.337
+!MESSAGE Indexed 'Sizeof' (1 sources, 85 headers) in 1.03 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-07 09:47:54.856
+!MESSAGE Indexed 'Sizeof Homework' (1 sources, 85 headers) in 1.02 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
