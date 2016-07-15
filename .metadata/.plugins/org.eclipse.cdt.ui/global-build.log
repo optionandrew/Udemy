@@ -1851,3 +1851,116 @@ g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise Switch.o" "..\\src\\Ex
 g++ -o "Exercise Switch.exe" "src\\Exercise Switch.o" 
 Info: Nothing to build for Exercise Switch
 Info: Nothing to build for Exercise Switch
+13:43:26 **** Rebuild of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+g++ -o Functions.exe "src\\Functions.o" 
+Info: Nothing to build for Functions
+13:46:44 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+..\src\Functions.cpp: In function 'int main()':
+..\src\Functions.cpp:22:2: error: 'showMenu' was not declared in this scope
+  showMenu{};
+  ^
+..\src\Functions.cpp: At global scope:
+..\src\Functions.cpp:47:1: error: expected unqualified-id before 'return'
+ return 0;
+ ^
+..\src\Functions.cpp:48:1: error: expected declaration before '}' token
+ }
+ ^
+13:47:09 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+..\src\Functions.cpp: In function 'int main()':
+..\src\Functions.cpp:22:2: error: 'showMenu' was not declared in this scope
+  showMenu{};
+  ^
+..\src\Functions.cpp: At global scope:
+..\src\Functions.cpp:47:1: error: expected unqualified-id before 'return'
+ return 0;
+ ^
+..\src\Functions.cpp:48:1: error: expected declaration before '}' token
+ }
+ ^
+13:47:31 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+..\src\Functions.cpp: In function 'int main()':
+..\src\Functions.cpp:22:2: error: 'showMenu' was not declared in this scope
+  showMenu{};
+  ^
+..\src\Functions.cpp: At global scope:
+..\src\Functions.cpp:47:1: error: expected unqualified-id before 'return'
+ return 0;
+ ^
+..\src\Functions.cpp:48:1: error: expected declaration before '}' token
+ }
+ ^
+13:47:37 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+..\src\Functions.cpp:47:1: error: expected unqualified-id before 'return'
+ return 0;
+ ^
+..\src\Functions.cpp:48:1: error: expected declaration before '}' token
+ }
+ ^
+13:48:58 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+g++ -o Functions.exe "src\\Functions.o" 
+13:52:52 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+g++ -o Functions.exe "src\\Functions.o" 
+14:07:12 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+..\src\Functions.cpp:34:1: error: expected declaration before '}' token
+ }
+ ^
+14:07:55 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+g++ -o Functions.exe "src\\Functions.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Functions.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:08:08 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -o Functions.exe "src\\Functions.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Functions.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:08:20 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -o Functions.exe "src\\Functions.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Functions.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:08:57 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+g++ -o Functions.exe "src\\Functions.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Functions.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:23:13 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+..\src\Functions.cpp:57:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^
+..\src\Functions.cpp:58:1: error: expected declaration before '}' token
+ }
+ ^
+14:24:24 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+g++ -o Functions.exe "src\\Functions.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Functions.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:25:04 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+g++ -o Functions.exe "src\\Functions.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Functions.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status

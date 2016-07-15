@@ -1,0 +1,9 @@
+14:25:04 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Functions.o" "..\\src\\Functions.cpp" 
+g++ -o Functions.exe "src\\Functions.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.9.3/../../../../mingw32/bin/ld.exe: cannot open output file Functions.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+14:25:04 Build Finished (took 401ms)
+
