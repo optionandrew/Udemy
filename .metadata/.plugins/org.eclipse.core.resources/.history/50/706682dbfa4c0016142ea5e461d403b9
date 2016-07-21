@@ -1,0 +1,28 @@
+//============================================================================
+// Name        : String.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <sstream>
+using namespace std;
+
+int main() {
+
+	string name = "Bob";
+	int age = 32;
+
+	stringstream hi;
+
+	hi<<"Name is: ";
+	hi<<name;
+	hi << ";  Age is: ";
+	hi<< age;
+
+	cout<<hi.str()<<endl;
+
+	return 0;
+}

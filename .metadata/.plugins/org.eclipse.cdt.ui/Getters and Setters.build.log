@@ -1,0 +1,7 @@
+09:55:16 **** Incremental Build of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+
+09:55:16 Build Finished (took 448ms)
+

@@ -194,3 +194,27 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-07-15 14:04:53.902
 !MESSAGE Indexed 'Copy of Functions' (1 sources, 85 headers) in 0.646 sec: 7,766 declarations; 13,486 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-18 08:58:49.424
+!MESSAGE Indexed 'Constructor and Destructors' (1 sources, 85 headers) in 1.87 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-18 09:25:57.316
+!MESSAGE Indexed 'Getters and Setters' (1 sources, 85 headers) in 1.12 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-18 10:06:03.066
+!MESSAGE Indexed 'String Streams' (1 sources, 85 headers) in 1.12 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-18 10:19:57.491
+!MESSAGE Indexed 'Constructor Parameters and Overloading' (1 sources, 85 headers) in 1.14 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-18 13:02:26.984
+!MESSAGE Indexed 'This' (1 sources, 85 headers) in 0.987 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-20 09:44:58.537
+!MESSAGE Indexed 'Pointers' (1 sources, 85 headers) in 0.957 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-20 10:04:20.396
+!MESSAGE Indexed 'Arithmetic' (1 sources, 85 headers) in 1.12 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-20 10:34:35.423
+!MESSAGE Indexed 'Exercise--hours conversion' (1 sources, 85 headers) in 1.06 sec: 7,763 declarations; 13,452 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

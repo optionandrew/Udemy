@@ -1,0 +1,24 @@
+//============================================================================
+// Name        : Pointers.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	int nValue = 8;
+
+	int* pnValue = &nValue;
+
+	nValue =9;
+
+	cout <<"Int value: "<<nValue<<endl;
+	cout <<"Address value: "<<pnValue<<endl;
+
+	return 0;
+}

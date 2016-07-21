@@ -1,0 +1,7 @@
+10:50:24 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+
+10:50:25 Build Finished (took 452ms)
+

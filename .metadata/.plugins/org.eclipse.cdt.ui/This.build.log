@@ -1,0 +1,7 @@
+14:06:09 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+
+14:06:10 Build Finished (took 453ms)
+

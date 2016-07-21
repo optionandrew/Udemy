@@ -1,0 +1,7 @@
+09:16:11 **** Incremental Build of configuration Debug for project Constructor and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor and Destructors.o" "..\\src\\Constructor and Destructors.cpp" 
+g++ -o "Constructor and Destructors.exe" "src\\Cat.o" "src\\Constructor and Destructors.o" 
+
+09:16:12 Build Finished (took 600ms)
+
