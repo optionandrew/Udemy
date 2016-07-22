@@ -1,0 +1,28 @@
+//============================================================================
+// Name        : Pointer.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+
+	const int elements =5;
+	string texts[elements]={"one","two","three","four","five"};
+
+	string *pTexts = texts;
+
+	cout<< pTexts<<endl;
+
+
+
+
+
+
+	return 0;
+}

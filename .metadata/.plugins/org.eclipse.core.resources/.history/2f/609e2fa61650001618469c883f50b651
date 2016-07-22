@@ -1,0 +1,32 @@
+//============================================================================
+// Name        : Exercise--hours.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	cout << "Enter number of seconds: " << flush;
+	int seconds;
+	cin>>seconds;
+
+	int hours;
+	int minutes;
+	int secondsRemain;
+
+	hours = seconds/60/60;
+	minutes = seconds/60-hours*60;
+	secondsRemain = seconds % 60;
+
+
+	cout<<"Hours:  "<< hours<<endl;
+	cout<<"Minutes:  "<< minutes<<endl;
+	cout<<"Seconds:  "<< secondsRemain<<endl;
+
+	return 0;
+}

@@ -1,0 +1,17 @@
+10:43:19 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+
+10:43:20 Build Finished (took 453ms)
+

@@ -1,0 +1,11 @@
+11:46:06 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:17:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+
+11:46:07 Build Finished (took 547ms)
+

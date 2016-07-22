@@ -1,0 +1,7 @@
+12:48:22 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+
+12:48:23 Build Finished (took 448ms)
+

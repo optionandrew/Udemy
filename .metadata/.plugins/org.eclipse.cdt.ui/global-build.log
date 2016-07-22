@@ -4507,3 +4507,1285 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Exercise--hours conversion.o" "..\\src\\Exercise--hours conversion.cpp" 
 g++ -o "Exercise--hours conversion.exe" "src\\Exercise--hours conversion.o" 
 Info: Nothing to build for Exercise--hours conversion
+09:12:39 **** Build of configuration Debug for project Pointers and Arrays ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_91/bin/server;C:/Program Files/Java/jre1.8.0_91/bin;C:/Program Files/Java/jre1.8.0_91/lib/amd64;C:\MinGW\bin;C:\mingw\msys\1.0\bing;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;;C:\Program Files (x86)\NTP\bin;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\;C:\Windows\system32]
+09:13:09 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_91/bin/server;C:/Program Files/Java/jre1.8.0_91/bin;C:/Program Files/Java/jre1.8.0_91/lib/amd64;C:\MinGW\bin;C:\mingw\msys\1.0\bing;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;;C:\Program Files (x86)\NTP\bin;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\;C:\Windows\system32]
+09:13:48 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_91/bin/server;C:/Program Files/Java/jre1.8.0_91/bin;C:/Program Files/Java/jre1.8.0_91/lib/amd64;C:\MinGW\bin;C:\mingw\msys\1.0\bing;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;;C:\Program Files (x86)\NTP\bin;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\;C:\Windows\system32]
+Info: Nothing to build for Exercise--hours conversion
+Info: Nothing to build for Exercise--hours conversion
+09:14:22 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_91/bin/server;C:/Program Files/Java/jre1.8.0_91/bin;C:/Program Files/Java/jre1.8.0_91/lib/amd64;C:\MinGW\bin;C:\mingw\msys\1.0\bing;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;;C:\Program Files (x86)\NTP\bin;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\;C:\Windows\system32]
+09:14:51 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_91/bin/server;C:/Program Files/Java/jre1.8.0_91/bin;C:/Program Files/Java/jre1.8.0_91/lib/amd64;C:\MinGW\bin;C:\mingw\msys\1.0\bing;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;;C:\Program Files (x86)\NTP\bin;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\alevin\AppData\Local\Programs\Python\Python35-32\;C:\Windows\system32]
+09:16:47 **** Rebuild of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:16:50 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:19:12 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:18: error: expected unqualified-id before 'sizeof'
+  for (int i = 0, sizeof(texts)/sizeof(string), i++){
+                  ^
+..\src\Pointers and Arrays1.cpp:18:18: error: expected ';' before 'sizeof'
+..\src\Pointers and Arrays1.cpp:18:31: warning: left operand of comma operator has no effect [-Wunused-value]
+  for (int i = 0, sizeof(texts)/sizeof(string), i++){
+                               ^
+..\src\Pointers and Arrays1.cpp:18:51: error: expected ';' before ')' token
+  for (int i = 0, sizeof(texts)/sizeof(string), i++){
+                                                   ^
+09:19:27 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+Info: Nothing to build for Pointers and Arrays1
+Info: Nothing to build for Pointers and Arrays1
+09:20:05 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i<sizeof(texts)/sizeof(string); i++){
+                   ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:20:16 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i<sizeof(texts)/sizeof(string); i++){
+                   ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:20:31 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:19:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i<sizeof(texts)/sizeof(string); i++){
+                   ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:22:11 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:23:37 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+..\src\Pointers and Arrays1.cpp:25:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:24:04 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+..\src\Pointers and Arrays1.cpp:25:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+..\src\Pointers and Arrays1.cpp:30:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:24:22 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+..\src\Pointers and Arrays1.cpp:25:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+..\src\Pointers and Arrays1.cpp:31:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string);
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:31:31 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:35:22: error: cannot convert 'std::string (*)[3] {aka std::basic_string<char> (*)[3]}' to 'std::string* {aka std::basic_string<char>*}' in initialization
+  string *pElement = &texts; //start of array pointer equiv of texts[0]
+                      ^
+..\src\Pointers and Arrays1.cpp:44:2: error: expected ';' before 'return'
+  return 0;
+  ^
+09:32:10 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:35:19: error: cannot convert 'std::string (*)[3] {aka std::basic_string<char> (*)[3]}' to 'int*' in initialization
+  int *pElement = &texts; //start of array pointer equiv of texts[0]
+                   ^
+..\src\Pointers and Arrays1.cpp:36:22: error: cannot convert 'std::string* {aka std::basic_string<char>*}' to 'int*' in initialization
+  int *pEnd = &texts[2];//pointer to end of array
+                      ^
+..\src\Pointers and Arrays1.cpp:44:2: error: expected ';' before 'return'
+  return 0;
+  ^
+09:33:25 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:44:2: error: expected ';' before 'return'
+  return 0;
+  ^
+09:33:45 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:44:2: error: expected ';' before 'return'
+  return 0;
+  ^
+09:33:54 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:34:33 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:35:00 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:35:05 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+09:36:06 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:35:22: error: cannot convert 'std::string (*)[3] {aka std::basic_string<char> (*)[3]}' to 'std::string* {aka std::basic_string<char>*}' in initialization
+  string *pElement = &texts; //start of array pointer equiv of texts[0]
+                      ^
+09:36:23 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:35:28: error: expected primary-expression before ']' token
+  string *pElement = &texts[]; //start of array pointer equiv of texts[0]
+                            ^
+09:36:38 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+10:38:35 **** Rebuild of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:38:39 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:38:52 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+..\src\Pointer Arithmetic.cpp: In function 'int main()':
+..\src\Pointer Arithmetic.cpp:16:22: error: array must be initialized with a brace-enclosed initializer
+  string *pTexts[0] = texts;
+                      ^
+10:39:05 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+..\src\Pointer Arithmetic.cpp: In function 'int main()':
+..\src\Pointer Arithmetic.cpp:16:26: error: cannot convert 'std::string {aka std::basic_string<char>}' to 'std::string* {aka std::basic_string<char>*}' in initialization
+  string *pTexts = texts[0];
+                          ^
+10:39:30 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:41:56 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:43:07 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:35:28: error: cannot convert 'std::string {aka std::basic_string<char>}' to 'std::string* {aka std::basic_string<char>*}' in initialization
+  string *pElement = texts[0]; //start of array pointer
+                            ^
+10:43:19 **** Incremental Build of configuration Debug for project Pointers and Arrays1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays1.o" "..\\src\\Pointers and Arrays1.cpp" 
+..\src\Pointers and Arrays1.cpp: In function 'int main()':
+..\src\Pointers and Arrays1.cpp:18:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:23:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+..\src\Pointers and Arrays1.cpp:27:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+                    ^
+g++ -o "Pointers and Arrays1.exe" "src\\Pointers and Arrays1.o" 
+10:49:42 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+..\src\Pointer Arithmetic.cpp: In function 'int main()':
+..\src\Pointer Arithmetic.cpp:18:20: error: cannot convert 'std::string (*)[5] {aka std::basic_string<char> (*)[5]}' to 'std::string* {aka std::basic_string<char>*}' in initialization
+  string *pTexts = &texts;
+                    ^
+..\src\Pointer Arithmetic.cpp:28:2: error: expected ';' before '}' token
+  }
+  ^
+10:50:40 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+..\src\Pointer Arithmetic.cpp: In function 'int main()':
+..\src\Pointer Arithmetic.cpp:28:2: error: expected ';' before '}' token
+  }
+  ^
+10:50:47 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:51:17 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+..\src\Pointer Arithmetic.cpp: In function 'int main()':
+..\src\Pointer Arithmetic.cpp:24:16: error: expected ')' before 'pEnd'
+  while(pTexts  pEnd){
+                ^
+..\src\Pointer Arithmetic.cpp:24:20: error: expected ';' before ')' token
+  while(pTexts  pEnd){
+                    ^
+..\src\Pointer Arithmetic.cpp:28:2: warning: statement has no effect [-Wunused-value]
+  }
+  ^
+10:51:37 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:55:43 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:56:04 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:56:21 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:57:38 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+10:57:50 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+11:25:02 **** Rebuild of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:25:03 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:25:58 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+Info: Nothing to build for Char Arrays
+Info: Nothing to build for Char Arrays
+11:26:55 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:29:10 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:11: error: expected unqualified-id before '=' token
+  for (int = 0 ; i<sizeof(text); i++){
+           ^
+..\src\Char Arrays.cpp:16:11: error: expected ';' before '=' token
+..\src\Char Arrays.cpp:16:11: error: expected primary-expression before '=' token
+..\src\Char Arrays.cpp:16:17: error: 'i' was not declared in this scope
+  for (int = 0 ; i<sizeof(text); i++){
+                 ^
+..\src\Char Arrays.cpp:16:31: error: expected ')' before ';' token
+  for (int = 0 ; i<sizeof(text); i++){
+                               ^
+..\src\Char Arrays.cpp:16:33: error: 'i' was not declared in this scope
+  for (int = 0 ; i<sizeof(text); i++){
+                                 ^
+11:29:34 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:11: error: expected unqualified-id before '=' token
+  for (int = 0 ; i<sizeof(text); i++){
+           ^
+..\src\Char Arrays.cpp:16:11: error: expected ';' before '=' token
+..\src\Char Arrays.cpp:16:11: error: expected primary-expression before '=' token
+..\src\Char Arrays.cpp:16:17: error: 'i' was not declared in this scope
+  for (int = 0 ; i<sizeof(text); i++){
+                 ^
+..\src\Char Arrays.cpp:16:31: error: expected ')' before ';' token
+  for (int = 0 ; i<sizeof(text); i++){
+                               ^
+..\src\Char Arrays.cpp:16:33: error: 'i' was not declared in this scope
+  for (int = 0 ; i<sizeof(text); i++){
+                                 ^
+11:29:49 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:11: error: expected unqualified-id before '=' token
+  for (int = 0 ; i<sizeof(text); i++){
+           ^
+..\src\Char Arrays.cpp:16:11: error: expected ';' before '=' token
+..\src\Char Arrays.cpp:16:11: error: expected primary-expression before '=' token
+..\src\Char Arrays.cpp:16:17: error: 'i' was not declared in this scope
+  for (int = 0 ; i<sizeof(text); i++){
+                 ^
+..\src\Char Arrays.cpp:16:31: error: expected ')' before ';' token
+  for (int = 0 ; i<sizeof(text); i++){
+                               ^
+..\src\Char Arrays.cpp:16:33: error: 'i' was not declared in this scope
+  for (int = 0 ; i<sizeof(text); i++){
+                                 ^
+11:29:55 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:11: error: expected unqualified-id before '=' token
+  for (int = 0 ; i<sizeof(text); i++){
+           ^
+..\src\Char Arrays.cpp:16:11: error: expected ';' before '=' token
+..\src\Char Arrays.cpp:16:11: error: expected primary-expression before '=' token
+..\src\Char Arrays.cpp:16:17: error: 'i' was not declared in this scope
+  for (int = 0 ; i<sizeof(text); i++){
+                 ^
+..\src\Char Arrays.cpp:16:31: error: expected ')' before ';' token
+  for (int = 0 ; i<sizeof(text); i++){
+                               ^
+..\src\Char Arrays.cpp:16:33: error: 'i' was not declared in this scope
+  for (int = 0 ; i<sizeof(text); i++){
+                                 ^
+11:30:04 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+..\src\Char Arrays.cpp:17:18: error: expected ';' before 'text'
+   cout <<i<<". " text[i]<< endl;
+                  ^
+11:30:08 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+..\src\Char Arrays.cpp:17:18: error: expected ';' before 'text'
+   cout <<i<<". " text[i]<< endl;
+                  ^
+11:30:19 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:30:37 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:30:59 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:32: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+  for (int i = 0 ; i=sizeof(text); i++){
+                                ^
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:31:44 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:32:45 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:33:02 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:15:7: error: expected ';' before 'sizeof'
+  cout sizeof(text);
+       ^
+..\src\Char Arrays.cpp:15:19: warning: statement has no effect [-Wunused-value]
+  cout sizeof(text);
+                   ^
+..\src\Char Arrays.cpp:17:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+11:33:09 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:17:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:43:48 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:14:17: error: initializer-string for array of chars is too long [-fpermissive]
+  char text[5] = "hello"; //double quotes adds an extra 0 value to the end
+                 ^
+..\src\Char Arrays.cpp:17:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+11:43:52 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:17:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:46:06 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:17:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i = 0 ; i<sizeof(text); i++){
+                    ^
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+11:56:57 **** Rebuild of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+11:57:00 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:24:3: error: expected ',' or ';' before 'rText'
+   rText[j]=text[i];
+   ^
+11:57:32 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+11:57:49 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+11:58:18 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:16:7: error: expected ';' before 'size'
+  cout size;
+       ^
+..\src\Reversing a string.cpp:16:11: warning: statement has no effect [-Wunused-value]
+  cout size;
+           ^
+11:58:25 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+11:58:39 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+11:59:06 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:00:04 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:00:26 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:01:32 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:02:15 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:02:49 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:03:21 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:23:2: error: expected ',' or ';' before 'for'
+  for (int i = size; i >=0; i--){
+  ^
+..\src\Reversing a string.cpp:23:21: error: 'i' was not declared in this scope
+  for (int i = size; i >=0; i--){
+                     ^
+..\src\Reversing a string.cpp:20:6: warning: unused variable 'j' [-Wunused-variable]
+  int j = 0
+      ^
+12:03:49 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:04:03 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:05:50 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:30:2: error: expected ';' before '}' token
+  }
+  ^
+12:05:54 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:06:14 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:06:31 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:06:58 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:07:10 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:07:27 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:26:9: error: 'j' was not declared in this scope
+   cout<<j<<endl;
+         ^
+12:07:33 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:07:42 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:08:19 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:23:21: error: expected unqualified-id before 'int'
+  for (int i = size, int j = 0; i >=0; i--){
+                     ^
+..\src\Reversing a string.cpp:23:21: error: expected ';' before 'int'
+..\src\Reversing a string.cpp:23:34: warning: for increment expression has no effect [-Wunused-value]
+  for (int i = size, int j = 0; i >=0; i--){
+                                  ^
+..\src\Reversing a string.cpp:23:37: error: expected ')' before ';' token
+  for (int i = size, int j = 0; i >=0; i--){
+                                     ^
+..\src\Reversing a string.cpp:23:25: warning: unused variable 'j' [-Wunused-variable]
+  for (int i = size, int j = 0; i >=0; i--){
+                         ^
+..\src\Reversing a string.cpp:23:39: error: name lookup of 'i' changed for ISO 'for' scoping [-fpermissive]
+  for (int i = size, int j = 0; i >=0; i--){
+                                       ^
+..\src\Reversing a string.cpp:23:39: note: (if you use '-fpermissive' G++ will accept your code)
+..\src\Reversing a string.cpp:23:42: error: expected ';' before ')' token
+  for (int i = size, int j = 0; i >=0; i--){
+                                          ^
+12:10:04 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:23:21: error: expected unqualified-id before 'int'
+  for (int i = size, int j = 0; i >=0; i--){
+                     ^
+..\src\Reversing a string.cpp:23:21: error: expected ';' before 'int'
+..\src\Reversing a string.cpp:23:34: warning: for increment expression has no effect [-Wunused-value]
+  for (int i = size, int j = 0; i >=0; i--){
+                                  ^
+..\src\Reversing a string.cpp:23:37: error: expected ')' before ';' token
+  for (int i = size, int j = 0; i >=0; i--){
+                                     ^
+..\src\Reversing a string.cpp:23:25: warning: unused variable 'j' [-Wunused-variable]
+  for (int i = size, int j = 0; i >=0; i--){
+                         ^
+..\src\Reversing a string.cpp:23:39: error: name lookup of 'i' changed for ISO 'for' scoping [-fpermissive]
+  for (int i = size, int j = 0; i >=0; i--){
+                                       ^
+..\src\Reversing a string.cpp:23:39: note: (if you use '-fpermissive' G++ will accept your code)
+..\src\Reversing a string.cpp:23:42: error: expected ';' before ')' token
+  for (int i = size, int j = 0; i >=0; i--){
+                                          ^
+12:11:48 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:23:21: error: expected unqualified-id before 'int'
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                     ^
+..\src\Reversing a string.cpp:23:21: error: expected ';' before 'int'
+..\src\Reversing a string.cpp:23:34: warning: for increment expression has no effect [-Wunused-value]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                  ^
+..\src\Reversing a string.cpp:23:37: error: expected ')' before ';' token
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                     ^
+..\src\Reversing a string.cpp:23:25: warning: unused variable 'j' [-Wunused-variable]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                         ^
+..\src\Reversing a string.cpp:23:39: error: name lookup of 'i' changed for ISO 'for' scoping [-fpermissive]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                       ^
+..\src\Reversing a string.cpp:23:39: note: (if you use '-fpermissive' G++ will accept your code)
+..\src\Reversing a string.cpp:23:44: error: 'j' was not declared in this scope
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                            ^
+12:12:06 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:23:21: error: expected unqualified-id before 'int'
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                     ^
+..\src\Reversing a string.cpp:23:21: error: expected ';' before 'int'
+..\src\Reversing a string.cpp:23:34: warning: for increment expression has no effect [-Wunused-value]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                  ^
+..\src\Reversing a string.cpp:23:37: error: expected ')' before ';' token
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                     ^
+..\src\Reversing a string.cpp:23:25: warning: unused variable 'j' [-Wunused-variable]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                         ^
+..\src\Reversing a string.cpp:23:39: error: name lookup of 'i' changed for ISO 'for' scoping [-fpermissive]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                       ^
+..\src\Reversing a string.cpp:23:39: note: (if you use '-fpermissive' G++ will accept your code)
+..\src\Reversing a string.cpp:23:44: error: 'j' was not declared in this scope
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                            ^
+12:12:53 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:23:21: error: expected unqualified-id before 'int'
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                     ^
+..\src\Reversing a string.cpp:23:21: error: expected ';' before 'int'
+..\src\Reversing a string.cpp:23:34: warning: for increment expression has no effect [-Wunused-value]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                  ^
+..\src\Reversing a string.cpp:23:37: error: expected ')' before ';' token
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                     ^
+..\src\Reversing a string.cpp:23:25: warning: unused variable 'j' [-Wunused-variable]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                         ^
+..\src\Reversing a string.cpp:23:39: error: name lookup of 'i' changed for ISO 'for' scoping [-fpermissive]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                       ^
+..\src\Reversing a string.cpp:23:39: note: (if you use '-fpermissive' G++ will accept your code)
+..\src\Reversing a string.cpp:23:44: error: 'j' was not declared in this scope
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                            ^
+12:14:29 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:23:21: error: expected unqualified-id before 'int'
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                     ^
+..\src\Reversing a string.cpp:23:21: error: expected ';' before 'int'
+..\src\Reversing a string.cpp:23:34: warning: for increment expression has no effect [-Wunused-value]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                  ^
+..\src\Reversing a string.cpp:23:37: error: expected ')' before ';' token
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                     ^
+..\src\Reversing a string.cpp:23:25: warning: unused variable 'j' [-Wunused-variable]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                         ^
+..\src\Reversing a string.cpp:23:39: error: name lookup of 'i' changed for ISO 'for' scoping [-fpermissive]
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                       ^
+..\src\Reversing a string.cpp:23:39: note: (if you use '-fpermissive' G++ will accept your code)
+..\src\Reversing a string.cpp:23:44: error: 'j' was not declared in this scope
+  for (int i = size, int j = 0; i >=0; i--, j++){
+                                            ^
+12:15:00 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:22:6: error: redeclaration of 'int j'
+  int j = 0
+      ^
+..\src\Reversing a string.cpp:21:16: note: 'int j' previously declared here
+  int i = size, j = 0;
+                ^
+..\src\Reversing a string.cpp:24:12: warning: statement has no effect [-Wunused-value]
+  for (i; i >=0; i--, j++){
+            ^
+..\src\Reversing a string.cpp:24:25: error: expected ';' before ')' token
+  for (i; i >=0; i--, j++){
+                         ^
+12:15:05 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:22:6: error: redeclaration of 'int j'
+  int j = 0;
+      ^
+..\src\Reversing a string.cpp:21:16: note: 'int j' previously declared here
+  int i = size, j = 0;
+                ^
+..\src\Reversing a string.cpp:24:8: warning: statement has no effect [-Wunused-value]
+  for (i; i >=0; i--, j++){
+        ^
+12:15:48 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:22:6: error: redeclaration of 'int j'
+  int j = 0;
+      ^
+..\src\Reversing a string.cpp:21:16: note: 'int j' previously declared here
+  int i = size, j = 0;
+                ^
+..\src\Reversing a string.cpp:24:8: warning: statement has no effect [-Wunused-value]
+  for (i; i >=0; i--, j++){
+        ^
+12:16:05 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:16:13 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:16:26 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:24:8: error: expected ';' before 'j'
+   cout j<<endl;
+        ^
+..\src\Reversing a string.cpp:24:15: warning: statement has no effect [-Wunused-value]
+   cout j<<endl;
+               ^
+12:16:33 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:16:44 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:17:16 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:17:31 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:17:42 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:17:57 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:18:02 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:18:08 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:18:53 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:19:17 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:22:56 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:30:2: error: expected ';' before 'cout'
+  cout<<rText<<endl;
+  ^
+12:23:00 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:25:03 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:25:22 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:25:37 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:26:16 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:29:57 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:31:11 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:32:22 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:35:19 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:35:27 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:36:24 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:22:2: error: expected ';' before 'for'
+  for(int i = size, j = 0; i>=0; i--, j++){
+  ^
+..\src\Reversing a string.cpp:22:27: error: 'i' was not declared in this scope
+  for(int i = size, j = 0; i>=0; i--, j++){
+                           ^
+..\src\Reversing a string.cpp:22:38: error: 'j' was not declared in this scope
+  for(int i = size, j = 0; i>=0; i--, j++){
+                                      ^
+..\src\Reversing a string.cpp:15:6: warning: unused variable 'size' [-Wunused-variable]
+  int size = sizeof(text)-1;
+      ^
+12:36:27 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:36:36 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:36:57 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:37:18 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:37:58 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:38:05 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:38:11 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:38:28 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:38:37 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:38:46 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:38:51 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:38:55 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:39:00 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:39:04 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:39:19 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:39:54 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:40:22 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:40:32 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:42:36 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:20:7: warning: variable 'rText' set but not used [-Wunused-but-set-variable]
+  char rText[sizeof(text)]={};
+       ^
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:42:52 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:43:35 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:44:37 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:44:46 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:45:07 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:35:15: error: expected ';' before ']' token
+ cout<<rText[2]]<<endl;
+               ^
+12:45:12 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:45:18 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:45:34 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:45:45 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:45:58 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:46:05 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+..\src\Reversing a string.cpp: In function 'int main()':
+..\src\Reversing a string.cpp:35:13: error: expected primary-expression before ']' token
+ cout<<rText[]<<endl;
+             ^
+12:46:08 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:46:21 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:46:25 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:46:31 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:46:46 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:46:50 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:46:55 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:47:23 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:47:28 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:48:06 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:48:11 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 
+12:48:22 **** Incremental Build of configuration Debug for project Reversing a string ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a string.o" "..\\src\\Reversing a string.cpp" 
+g++ -o "Reversing a string.exe" "src\\Reversing a string.o" 

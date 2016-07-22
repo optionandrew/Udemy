@@ -1,0 +1,38 @@
+//============================================================================
+// Name        : Reversing.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	char text[] = "hello";
+	int size = sizeof(text)-1;
+
+
+	char rText[size]={};
+
+	cout<<sizeof(rText)<<","<<sizeof(text)<<endl;
+
+
+	for(int i = size, j = 0; i>=0; i--, j++){
+
+		rText[j] = text[i];
+
+
+
+	}
+
+	cout<<rText<<endl;
+
+
+
+
+
+	return 0;
+}
